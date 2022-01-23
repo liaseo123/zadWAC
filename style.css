@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+#title{
+  background-color: white;
+  min-height: 5em;
+}
+#title h1{
+color:rgb(61, 255, 148);
+  font-family:'Merienda', cursive;
+   text-align: center;
+}
+#banner{
+  background-image: url(pexels-thameur-dahmani-3779926.jpg);
+  clear:both;
+}
+#menu{
+  background-color:rgb(31, 101, 167);  
+  text-align: center;
+  
+    min-height: 10vh;
+}
+.menuItem{
+  margin: 20px 2em 0 2em;
+line-height: 5em;
+  color:rgb(59, 156, 103); 
+}
+#banner h2{
+  color:rgb(61, 255, 148);
+  font-family:'Merienda', cursive;
+  text-align: center;
+  padding:5em auto;
+}
+#banner h3{
+  color:white;
+   text-align: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.lista{
+  color:white;
+}
+
+.galeria img{
+width: 19%;
+margin-left: 10px;
+}
+
+.tekst1 p{
+  color: white;
+  text-align: center;
+}
+
+
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: rgb(61, 255, 148); 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.napis pre{
+  color: white;
+}
+
+footer {
+  text-align: center;
+  padding: 1px;
+  background-color: black;
+  color: white;
+}
